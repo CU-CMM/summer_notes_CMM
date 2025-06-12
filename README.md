@@ -10,7 +10,7 @@ These are the notes from class
 - strings
 - list and strings
 - looping and dictionaries
-- 
+  
 # week 2 day 2
 - some of this was confusing* #struggle
 - FUNCTIONS
