@@ -49,3 +49,6 @@ These are the notes from class
 -re.findall
 -wildcards / regex symbols
 -Metacharacters
+
+# week 3 day 2
+
