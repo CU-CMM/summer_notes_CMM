@@ -31,3 +31,21 @@ These are the notes from class
 - updating variables
 
 # week 2 day 4
+-activity (did not do very well)
+
+# week 3 day 1
+-(very helpful for search parameters)
+-(might be helpful at very bottom)
+-(find if play is in this text)
+-re.search("play", story
+-FILES, .txt FILES and REGULAR EXPRESSIONS
+-files
+-os package
+-file handling
+-f.readlines
+-txt.strip
+-.split
+-regular expressions
+-re.findall
+-wildcards / regex symbols
+-Metacharacters
