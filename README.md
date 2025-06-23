@@ -72,3 +72,22 @@ These are the notes from class
 
 # week 3 day 4 
 -HOLIDAY no class
+
+# week 4 day 1
+-NumPy Basics
+-(more mathy coding)(hate math but kind of actually liked this, it makes math kind of easier)
+-creating ndarrays
+-data types for ndarrays
+-Arithmetic with NumPy Arrays
+-Indexing and Slicing
+-A Multidimensional Array
+-MultiDimension Indexing
+-2D Slicing
+-Transposing Arrays and Swapping Axes
+
+-ndarray, an efficient multidimensional array providing fast array-oriented arithmetic operations and flexible broadcasting capabilities.
+-Mathematical functions for fast operations on entire arrays of data without having to write loops.
+-Tools for reading/writing array data to disk and working with memory-mapped files.
+-Linear algebra, random number generation, and Fourier transform capabilities.
+-A C API for connecting NumPy with libraries written in C, C++, or FORTRAN.
+
