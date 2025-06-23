@@ -68,4 +68,7 @@ These are the notes from class
 -JSON Files
 
 # week 3 day 3
+-Activity
 
+# week 3 day 4 
+-HOLIDAY no class
