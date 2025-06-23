@@ -1,6 +1,14 @@
 # summer_notes_CMM
 These are the notes from class
 
+# week 1 day 3
+-Markdown language
+-Expressions
+-Comments
+-Variables
+-Data Types
+-Conditional Statements
+
 # week 2 day 1
 - ISSUE with making a new while loop allowing for input, same with for loops, having trouble with anything that requires an input.
 - LOOPS
