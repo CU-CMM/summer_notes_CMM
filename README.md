@@ -64,4 +64,8 @@ These are the notes from class
 -Metacharacters
 
 # week 3 day 2
+-CSV files
+-JSON Files
+
+# week 3 day 3
 
