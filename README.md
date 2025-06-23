@@ -75,7 +75,7 @@ These are the notes from class
 
 # week 4 day 1
 -NumPy Basics
--(more mathy coding)(hate math but kind of actually liked this, it makes math kind of easier)
+
 -creating ndarrays
 -data types for ndarrays
 -Arithmetic with NumPy Arrays
@@ -84,6 +84,8 @@ These are the notes from class
 -MultiDimension Indexing
 -2D Slicing
 -Transposing Arrays and Swapping Axes
+
+-(more mathy coding)(hate math but kind of actually liked this, it makes math kind of easier)
 
 -ndarray, an efficient multidimensional array providing fast array-oriented arithmetic operations and flexible broadcasting capabilities.
 -Mathematical functions for fast operations on entire arrays of data without having to write loops.
