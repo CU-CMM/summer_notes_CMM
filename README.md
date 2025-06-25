@@ -93,3 +93,16 @@ These are the notes from class
 -Linear algebra, random number generation, and Fourier transform capabilities.
 -A C API for connecting NumPy with libraries written in C, C++, or FORTRAN.
 
+# week 4 day 2
+-APIs
+-ethical web scraping
+-what is an API
+-import requests
+-PokeAPI
+-TV Maze
+-APIs with keys
+-Last.fm Music Discovery API
+-National Park Service API
+-Making Functions
+-Wikipedia API
+
