@@ -2,17 +2,17 @@
 These are the notes from class
 
 # week 1 day 3
--Markdown language
--Expressions
--Comments
--Variables
--Data Types
--Conditional Statements
+- Markdown language
+- Expressions
+- Comments
+- Variables
+- Data Types
+- Conditional Statements
 
 # week 1 day 4
--Tuples
--Lists
--Dictionaries
+- Tuples
+- Lists
+- Dictionaries
 
 # week 2 day 1
 - ISSUE with making a new while loop allowing for input, same with for loops, having trouble with anything that requires an input.
@@ -44,75 +44,75 @@ These are the notes from class
 - updating variables
 
 # week 2 day 4
--activity (did not do very well)
+- activity (did not do very well)
 
 # week 3 day 1
--(very helpful for search parameters)
--(might be helpful at very bottom)
--(find if play is in this text)
--re.search("play", story
--FILES, .txt FILES and REGULAR EXPRESSIONS
--files
--os package
--file handling
--f.readlines
--txt.strip
--.split
--regular expressions
--re.findall
--wildcards / regex symbols
--Metacharacters
+- (very helpful for search parameters)
+- (might be helpful at very bottom)
+- (find if play is in this text)
+- re.search("play", story
+- FILES, .txt FILES and REGULAR EXPRESSIONS
+- files
+- os package
+- file handling
+- f.readlines
+- txt.strip
+- .split
+- regular expressions
+- re.findall
+- wildcards / regex symbols
+- Metacharacters
 
 # week 3 day 2
--CSV files
--JSON Files
+- CSV files
+- JSON Files
 
 # week 3 day 3
--Activity
+- Activity
 
 # week 3 day 4 
--HOLIDAY no class
+- HOLIDAY no class
 
 # week 4 day 1
--NumPy Basics
+- NumPy Basics
 
--creating ndarrays
--data types for ndarrays
--Arithmetic with NumPy Arrays
--Indexing and Slicing
--A Multidimensional Array
--MultiDimension Indexing
--2D Slicing
--Transposing Arrays and Swapping Axes
+- creating ndarrays
+- data types for ndarrays
+- Arithmetic with NumPy Arrays
+- Indexing and Slicing
+- A Multidimensional Array
+- MultiDimension Indexing
+- 2D Slicing
+- Transposing Arrays and Swapping Axes
 
--(more mathy coding)(hate math but kind of actually liked this, it makes math kind of easier)
+- (more mathy coding)(hate math but kind of actually liked this, it makes math kind of easier)
 
--ndarray, an efficient multidimensional array providing fast array-oriented arithmetic operations and flexible broadcasting capabilities.
--Mathematical functions for fast operations on entire arrays of data without having to write loops.
--Tools for reading/writing array data to disk and working with memory-mapped files.
--Linear algebra, random number generation, and Fourier transform capabilities.
--A C API for connecting NumPy with libraries written in C, C++, or FORTRAN.
+- ndarray, an efficient multidimensional array providing fast array-oriented arithmetic operations and flexible broadcasting capabilities.
+- Mathematical functions for fast operations on entire arrays of data without having to write loops.
+- Tools for reading/writing array data to disk and working with memory-mapped files.
+- Linear algebra, random number generation, and Fourier transform capabilities.
+- A C API for connecting NumPy with libraries written in C, C++, or FORTRAN.
 
 # week 4 day 2
--APIs 
--ethical web scraping 
--what is an API 
--import requests 
--PokeAPI 
--TV Maze 
--APIs with keys 
--Last.fm Music Discovery API 
--National Park Service API 
--Making Functions -Wikipedia API
+- APIs 
+- ethical web scraping 
+- what is an API 
+- import requests 
+- PokeAPI 
+- TV Maze 
+- APIs with keys 
+- Last.fm Music Discovery API 
+- National Park Service API 
+- Making Functions -Wikipedia API
 
 # week 4 day 3
--XML, HTML, and Beautiful Soup
--What is a Web Scraper?
--XML
--House XML
--Beautiful Soup(government)
--HTML Text
--NY Times
--Music lyrics
+- XML, HTML, and Beautiful Soup
+- What is a Web Scraper?
+- XML
+- House XML
+- Beautiful Soup(government)
+- HTML Text
+- NY Times
+- Music lyrics
 
 
