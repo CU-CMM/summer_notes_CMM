@@ -115,4 +115,10 @@ These are the notes from class
 - NY Times
 - Music lyrics
 
+# week 4 day 4
+- worked with my partner kyle to identify project
+- created our GitHub project repository
+- found our data
+- each pulled the data and commited a working file to our joint repository
+
 
