@@ -124,12 +124,12 @@ These are the notes from class
 - https://www.nyc.gov/site/hpd/about/open-data.page
 - [Housing and Development (Housing Maintenance Code Violations)]
 
-  # week 5 day 1
-  - Pandas
-  - NaN & empty data
-  - .csv Files    pd.read_csv
-  - .json files   pd.read_json
-  - Exercise 1: get the national parks with over a million visitors
-  - Exercise 2: Create a dictionary of the number of national parks per state
+# week 5 day 1
+- Pandas
+- NaN & empty data
+- .csv Files    pd.read_csv
+- .json files   pd.read_json
+- Exercise 1: get the national parks with over a million visitors
+- Exercise 2: Create a dictionary of the number of national parks per state
 
 
