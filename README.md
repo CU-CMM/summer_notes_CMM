@@ -124,4 +124,10 @@ These are the notes from class
 - https://www.nyc.gov/site/hpd/about/open-data.page
 - [Housing and Development (Housing Maintenance Code Violations)]
 
+  # week 5 day 1
+  - Pandas
+  - NaN & empty data
+  - .csv Files    pd.read_csv
+  - 
+
 
