@@ -128,6 +128,8 @@ These are the notes from class
   - Pandas
   - NaN & empty data
   - .csv Files    pd.read_csv
-  - 
+  - .json files   pd.read_json
+  - Exercise 1: get the national parks with over a million visitors
+  - Exercise 2: Create a dictionary of the number of national parks per state
 
 
