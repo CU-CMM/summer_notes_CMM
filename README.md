@@ -133,7 +133,7 @@ These are the notes from class
 - Exercise 2: Create a dictionary of the number of national parks per state
 
 # week 5 day 2
-- worked with Mazzy to do the w5d2 cleaning review excersize 1
+- worked with Mazzy to do the w5d2 cleaning review exercise 1
 - and we figured it out, YAY!
 
 
