@@ -136,4 +136,60 @@ These are the notes from class
 - worked with Mazzy to do the w5d2 cleaning review exercise 1
 - and we figured it out, YAY!
 
+# week 5 day 3
+- HELPFUL PROJECT METRIX POWERPOINT
+- wikifunctions.py (very helpful info/commands)
+- Data Wrangling with Web Scraping
+- Wikifunctions
+- Static Web Pages
+- Reading an HTML table into Python
+- pandas's read_html
+- 
+
+# week 5 day 4
+- All the questions:
+  
+- KNOW YOUR GOALS
+- What do I want to do?
+- Identify the data
+- What data is available to me?
+- Where does the data come from?
+- Do I have consent to have it obtained?
+  
+- PURPOSE AND INTENTION
+- What am I going to do with this data?
+- Who is going to see it?
+- What is my goal with sharing and using this data?
+- What will I gain from it?
+- Will it affect the people whose data this is?
+  
+- OWNERSHIP
+- Whose data is it?
+  
+- TRANSPARENCY
+- Do they know I am working with their data?
+- Have I communicated to the people whose data it is?
+  
+- PRIVACY
+- Will you be able to identify people through this data?
+- Who will have access to the anonymized data?
+- How will I anonymize the data?
+  
+- ESTABLISHING CRITERIA
+- What are your KPIs (how would you define success)?
+- Are they possible?
+- Are they aligned with protection and transparency?
+- How will you measure success?
+  
+- DEVELOP A WORKFLOW
+- What will your process be?
+  
+- OUTCOMES
+- What will your outcome be through working with this data?
+  
+- PREPERATION
+- How do you verify the data?
+- How do you manage missing data?
+- How do you normalize?
+- Are there repercussions to normalization?
 
