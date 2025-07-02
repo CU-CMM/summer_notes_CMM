@@ -141,10 +141,10 @@ These are the notes from class
 - wikifunctions.py (very helpful info/commands)
 - Data Wrangling with Web Scraping
 - Wikifunctions
+- Pickling
 - Static Web Pages
 - Reading an HTML table into Python
 - pandas's read_html
-- 
 
 # week 5 day 4
 - All the questions:
