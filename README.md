@@ -147,10 +147,11 @@ These are the notes from class
 - pandas's read_html
 
 # week 5 day 4
+- WORKED ON PROJECT WITH KYLE
 - All the questions:
   
 - KNOW YOUR GOALS
-- What do I want to do?
+- What do I want to do? 
 - Identify the data
 - What data is available to me?
 - Where does the data come from?
@@ -192,4 +193,6 @@ These are the notes from class
 - How do you manage missing data?
 - How do you normalize?
 - Are there repercussions to normalization?
+
+# Week 6 Day 1
 
