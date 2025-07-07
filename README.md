@@ -195,4 +195,15 @@ These are the notes from class
 - Are there repercussions to normalization?
 
 # Week 6 Day 1
+- USE UNIVARIANT IN PROJECT READ ME BECAUSE ITS COOL
+- these graphs are for data exploration and NOT good enough for project turn-in
+- EDA
+- Data Collection
+- Data Cleaning
+- Univariate Analysis
+- Bivariate Analysis
+- Multivariate Analysis
+- Time Series Data
+- Dealing with Outliers and Missing Values
+- cleaning, making graphs, storing Titanic data 
 
