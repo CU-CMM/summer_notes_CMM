@@ -205,5 +205,21 @@ These are the notes from class
 - Multivariate Analysis
 - Time Series Data
 - Dealing with Outliers and Missing Values
-- cleaning, making graphs, storing Titanic data 
+- cleaning, making graphs, storing Titanic data
+
+# Week 6 Day 2
+- Data Collection
+- Data Cleaning
+- Univariate Analysis
+- Bivariate Analysis
+- Multivariate Analysis
+- Titanic data set
+- data cleaning and visual graphs
+
+# Week 6 Day 3
+- EDA
+- outliers and missing data
+- time series analysis
+- groupby
+- saving our images
 
